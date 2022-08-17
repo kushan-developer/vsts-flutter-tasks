@@ -5,7 +5,7 @@
     "description": "Install the Flutter environment.",
     "helpMarkdown": "For more information, take a look at the Flutter [documentation](https://flutter.io)",
     "category": "Tool",
-    "author": "Aloïs Deniel",
+    "author": "Kushan Chatterjee",
     "version": {
         "Major": 0,
         "Minor": 2,
